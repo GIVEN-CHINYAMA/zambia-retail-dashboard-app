@@ -160,7 +160,7 @@ This app is designed for **zero-cost deployment** on Streamlit Community Cloud.
 5. Click **Deploy** — your app will be live in approximately 2 minutes ✅
 
 Your app will receive a public URL in the format:
-`https://your-username-zambia-retail-dashboard-app-app-xxxx.streamlit.app`
+`https://GIVEN-CHINYAMA/zambia-retail-dashboard-app-xxxx.streamlit.app`
 
 ---
 
