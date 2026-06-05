@@ -1,3 +1,4 @@
+https://zambia-retail-dashboard-app-wg8u4zhast9p9gjhz3cdvf.streamlit.app/
 # 🇿🇲 Zambia National Retail Intelligence Platform
 
 <div align="center">
@@ -19,6 +20,7 @@
 ## 📌 Overview
 
 The **Zambia National Retail Intelligence Platform** is an interactive business intelligence web application built with [Streamlit](https://streamlit.io). It simulates and analyses retail transaction data across Zambia's major cities and store chains from **2022 to 2024**, delivering actionable insights across six analytical modules:
+https://zambia-retail-dashboard-app-wg8u4zhast9p9gjhz3cdvf.streamlit.app/
 
 - Executive KPI dashboards with real-time filtering
 - Exploratory data analysis with seasonality and promotion impact
